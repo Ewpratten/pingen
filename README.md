@@ -1,0 +1,2 @@
+# pingen
+Generate PIN codes
